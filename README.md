@@ -7,7 +7,7 @@ This repository only holds the downloads.
 ## Install
 
 1. Install [Claude Code](https://claude.com/claude-code), open a terminal, run `claude` and log in once.
-2. Download **LangtJetzt_1.0.0_x64-setup.exe** from the [latest release](https://github.com/ZcarecroW/LangtJetzt-releases/releases/latest) and run it.
+2. Download the **setup .exe** from the [latest release](https://github.com/ZcarecroW/LangtJetzt-releases/releases/latest) and run it.
 3. Windows shows a blue warning because the app is not code-signed. Click **More info**, then **Run anyway**.
 
 LangtJetzt checks at first start that Claude Code is ready and says what to do if something is missing.
